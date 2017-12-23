@@ -15,6 +15,9 @@ report
 깃허브에 소스코드와 db export하는법 찾아서 *.sql 파일 올리시고 db설계한거 show tables 부분과 각테이블별로 select하고  캡쳐해서 내일까지 올려주세요
  
  a . gcp_image ( Google Cloud Platform , select + desc [ a table ] + show tables )
+ 
  b . 설계 UML ( 설계 Database img ) 
+ 
  c . 자체_db ( img ) 
+ 
  d . 최종보고서pdf
